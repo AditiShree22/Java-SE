@@ -21,7 +21,7 @@ public class StringOccurrenceCount {
 		}
 		System.out.println("U occurred " +count+ " times.");
 		
-		//Using character array
+		//Using Character array
 		char[] arr = new char[input.length()];
 		arr = input.toCharArray();
 			
@@ -32,7 +32,6 @@ public class StringOccurrenceCount {
 		}
 		System.out.println("A occurred " +count+ " times.");
 		
-
 	}
 
 }
